@@ -43,3 +43,5 @@ You can install SciPy using the Python package manager `pip`:
 
 ```bash
 pip install scipy
+
+@RajMajhi
